@@ -1,5 +1,5 @@
 {
-    "name": "CooperJin/aliyun-dypls-msg-php-sdk",
+    "name": "cooperjin/aliyun-dypls-msg-php-sdk",
     "description": "Aliyun PLS message SDK for PHP",
     "keywords": [ "aliyun", "PLS", "sdk" ],
     "type": "library",
