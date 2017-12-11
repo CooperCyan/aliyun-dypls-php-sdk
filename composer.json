@@ -1,6 +1,6 @@
 {
-    "name": "cooperjin/aliyun-dypls-msg-php-sdk",
-    "description": "Aliyun PLS message SDK for PHP",
+    "name": "cooperjin/aliyun-dypls-php-sdk",
+    "description": "Aliyun PLS SDK for PHP",
     "keywords": [ "aliyun", "PLS", "sdk" ],
     "type": "library",
     "license": "Apache-2.0",
